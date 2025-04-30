@@ -303,7 +303,7 @@
         </a>
       </div>
     </div>
-    <div class="credit">created by <span>Naveen Kumar</span> |</div>
+    <div class="credit">created by <span>Naveen Kumar</span> | <span>Nishant</span></div>
   </section>
 
   <script src="js/script.js"></script>
